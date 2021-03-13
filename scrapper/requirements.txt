@@ -1,0 +1,4 @@
+## Packages
+selenium
+BeautifulSoup4
+lxml
